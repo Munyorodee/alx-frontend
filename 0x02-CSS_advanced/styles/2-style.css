@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 html {
   scroll-behavior: smooth;
 }
@@ -20,4 +21,29 @@ a {
 
 .section-tagline {
   color: #d73953;
+=======
+/* task 2 */
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    color: #161616;
+}
+
+a {
+    color: #161616;
+}
+
+.visually-hidden {
+    display: none;
+}
+
+.card-category {
+    color: #D73953;
+}
+
+.section-tagline {
+    color: #D73953;
+>>>>>>> db161a94e66bcdfaf43582a751b38bdaad57d833
 }

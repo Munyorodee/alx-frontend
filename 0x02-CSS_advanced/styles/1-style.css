@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 html {
   scroll-behavior: smooth;
+=======
+/* task 1 : fluid/smooth scrolling */
+html {
+    scroll-behavior: smooth;
+>>>>>>> db161a94e66bcdfaf43582a751b38bdaad57d833
 }
